@@ -42,9 +42,13 @@ python3 run.py
 ## 文档索引
 
 - [用户教程](docs/USER_GUIDE.md)
+- [从零开始教程](docs/FROM_ZERO_GUIDE.md)
+- [抓包流程与判断方法](docs/PACKET_CAPTURE_FLOW.md)
 - [我的想法：为什么做这个项目](docs/PROJECT_INTENT.md)
 - [遇到的困难](docs/CHALLENGES.md)
 - [系统最终如何实现](docs/SYSTEM_IMPLEMENTATION.md)
+- [项目全过程复盘](docs/PROJECT_EVOLUTION.md)
+- [Git 历史清洗与恢复说明](docs/GIT_HISTORY_RECOVERY.md)
 - [南山子项目说明](南山/README.md)
 - [南山部署备忘](南山/SERVERS.md)
 - [青年驿站子项目说明](青年驿站/README.md)
