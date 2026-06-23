@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# 日志文件
+*.log
+*.out
+
+# 本地环境与运行产物
+.venv/
+build/
+dist/
+*.spec
+*.tar.gz
+*.sha256
+qiangfang-linux
+qiangfang-macos
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.bak

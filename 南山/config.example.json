@@ -1,0 +1,35 @@
+{
+  "start_delay": 0,
+  "interval": 0.5,
+  "max_count": 0,
+  "success_stop_threshold": 10,
+  "stop_after_first_success": true,
+  "proxy_enabled": false,
+  "proxy_api_url": "",
+  "proxy_whitelist_enabled": false,
+  "proxy_whitelist_url": "",
+  "bark_enabled": false,
+  "accounts": [
+    {
+      "id": "example-account",
+      "name": "示例账号",
+      "enabled": true,
+      "cookies": {
+        "raw_cookie": "PHPSESSID=xxx; _csrf=xxx; _identity=xxx; acw_tc=xxx; acw_sc__v3=xxx"
+      },
+      "user": {
+        "user_name": "张三",
+        "card_num": "440300199001011234",
+        "phone": "13800000000",
+        "school": "示例大学",
+        "major": "示例专业",
+        "graduation_time": "2026-06-30",
+        "household_type": "非深户籍",
+        "checkin_date": "2026-04-29",
+        "xuexin_code": "XXXXXXXXXXXXXXX",
+        "enterprise": "示例企业",
+        "district": "南山区"
+      }
+    }
+  ]
+}

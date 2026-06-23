@@ -1,0 +1,14 @@
+{
+  "token": "YOUR_SZYOUTH_JWT",
+  "name": "张三",
+  "phone": "13800000000",
+  "gender": 2000,
+  "id_card": "440300199001011234",
+  "school": "示例大学",
+  "major": "示例专业",
+  "xuexin_code": "XXXXXXXXXXXXXXX",
+  "graduation_date": "2026-06-30",
+  "is_shenzhen": false,
+  "come_date": "2026-04-04",
+  "leave_date": "2026-04-18"
+}

@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# 日志文件
+*.log
+
+# 配置文件（包含敏感信息）
+config.json
+**/config.json
+南山/JSON/
+青年驿站/JSON/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.bak
+~
+.ruff_cache/
+
+# 本地工具与自动化缓存
+.codex_remote_work/
+.kilo/
+.playwright-mcp/
+.serena/
+.spec-workflow/
+
+# 本仓库公开归档只收纳南山与青年驿站，其他本地材料不纳入版本库
+/blog_rewrite_2025plus/
+/ops/
+/analyze_firmware.js
+/deep_analyze.js
+/fish.js
+/favicon_source.jpg
+/km-home-hero-after-cache-refresh.png
+/test1.jpg
+/otw_protocol_*.json
+/task_plan.md
+/findings.md
+/progress.md
